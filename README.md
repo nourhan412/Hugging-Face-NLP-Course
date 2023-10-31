@@ -1,1 +1,1 @@
-# Hugging-Face-NLP-Course
+# Hugging-Face-Transformers-Course
